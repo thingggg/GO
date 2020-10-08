@@ -1,8 +1,10 @@
 # GO
-LAB 8INF341
-Les laboratoire réalisés jusqu'à présent.
+## LAB 8INF341
+### Lab 2
+#### Par Gregor Loquet et Olivier Dion
+
+La liste des choses à faire pour le moment
 
 ### Todos
 
- - Write MORE Tests
- - Be sociable
+ - Await instructions
