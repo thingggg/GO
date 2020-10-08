@@ -1,0 +1,34 @@
+0	ls 	2972
+1	ls 	3019
+2	ls -l 	3037
+3	ls 	3097
+4	ls 	3145
+5	ls -l 	3212
+6	ls 	3274
+7	ls -l 	3321
+8	ls 	3371
+9	ls 	3417
+10	ls -l 	3419
+11	ls 	3467
+12	ls 	3513
+13	ls 	4113
+14	ls 	4164
+15	cd ..  	2724
+16	mv   	2803
+17	mv d  	2814
+18	mv d .. 	2816
+19	mv d .. 	2188
+20	man 	2665
+21	mv d .. 	2724
+22	man >> 	3366
+23	ls >> 	3613
+24	ls -l 	3672
+25	cat eee  	2598
+26	cat historiqe.cpp  	2601
+27	ls 	2603
+28	cat historique.cpp  	2604
+29	mv file1.txt fichier2.txt 	2634
+30	ls 	2636
+31	& 	2640
+32	ls & 	2642
+33	ls -l 	2644
