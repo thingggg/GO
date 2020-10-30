@@ -18,7 +18,6 @@ int CoupeDeVin, Porte, Table, Bague, Chandelier;
 int main()
 {
     bool quitter = false;
-    int choix;
     
     do {
 		thread t1(creerCoupe);
